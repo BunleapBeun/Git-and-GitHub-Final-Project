@@ -17,3 +17,5 @@ Run the script `simple-interest.sh`, then enter the required values when prompte
 ## Project Purpose
 This project is part of the Coursera Final Project for the course
 "Introduction to Git and GitHub" and demonstrates GitHub UI and Git CLI skills.
+
+Minor typo fix for peer review merge demonstration.
